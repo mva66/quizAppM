@@ -5,4 +5,13 @@ mat-card {
   margin: auto;
   margin-bottom: 5px;
   margin-top: 5px;
+  background-color: rgb(238, 208, 212);
+}
+
+mat-card-title {
+  padding-bottom: 5%;
+}
+.btn-primary {
+  background-color: lightblue;
+  color: black;
 }
